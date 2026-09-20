@@ -1,4 +1,4 @@
-### A little bit about me, the author of this Repository
+### A little bit about me, the Author of this Repository
 
 Hello everyone! Let me introduce myself before we start. I'm Andre Zimin - Data Scientist & ML Researcher. I'm open to new collaborations and are always willing to participate and contribute projects that are aimed towards the improvement of people's lives. I'd like improving an environments in which sustainable economy can take hold, elaborating infrastructure access and services for human development, modernizing technology and established a new economic and social dynamism our life.
 
